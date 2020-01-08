@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"RCRD_Actor1_1","characterIndex":0,"characterName":"Bella","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"RCRD_Actor1","traits":[],"initialLevel":1,"maxLevel":25,"name":"貝菈","nickname":"神子","note":"","profile":"王國的公主，同時為此任帶領勇者討伐魔王的神子。"},
+{"id":2,"battlerName":"RCRD_Actor1_2","characterIndex":1,"characterName":"Bella","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"RCRD_Actor1","traits":[],"initialLevel":1,"maxLevel":25,"name":"利恩","nickname":"神官","note":"","profile":"在皇城中任職神官，具高度智慧，輔佐歷代神子。"},
+{"id":3,"battlerName":"Actor3_3","characterIndex":2,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"猶爾","nickname":"","note":"","profile":""}
+]
